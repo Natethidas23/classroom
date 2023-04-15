@@ -1,0 +1,20 @@
+const sampleArray = [
+    "yellow flower",
+    "red cap",
+    "white shirt",
+    "pink shoes",
+    "black bad" 
+];
+
+console.log(sampleArray);
+
+console.log("length",sampleArray.length);
+console.log("pop():", sampleArray.pop());
+console.log(sampleArray);
+console.log("-------------------");
+console.log("push()",sampleArray.push("florida state"));
+console.log("-------------------");
+console.log("unshift():", sampleArray.unshift("blue sweater"));
+console.log(sampleArray)
+console.log("shift():", sampleArray.unshift("blue sweater"));
+console.log(sampleArray)
